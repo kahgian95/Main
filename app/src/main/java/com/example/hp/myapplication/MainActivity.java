@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     TextView tv1, tv2;
     RadioButton rdbtn1, rdbtn2;
     CheckBox cb1, cb2, cb3;
-    int correct, correct 2;
+    int correct;update
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
